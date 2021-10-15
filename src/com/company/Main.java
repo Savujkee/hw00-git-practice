@@ -6,6 +6,5 @@ public class Main {
         // 1 2 3 GO
         System.out.println("Hello, mates!");
 
-
     }
 }
